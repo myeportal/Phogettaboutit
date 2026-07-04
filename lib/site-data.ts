@@ -33,7 +33,7 @@ export const featuredItems = [
   },
   {
     name: "Mama-Son's Basil Fusion",
-    detail: 'The dinner signature lands in Italy with basil, garlic, olive oil, cream cheese, and a trio of Romano, Parmesan, and Parmigiano.',
+    detail: 'The dinner signature lands in Italy with a basil garlic olive oil based, 4 cheese fusion sauce over angel hair or spaghetti pasta.',
     daypart: 'Italia Dinner',
   },
   {
@@ -70,7 +70,7 @@ export const menuSections = [
       ['Vodka Rigatoni Calabrese', 'Tomato-cream sauce, pancetta, parmesan, basil'],
       ['Wild Mushroom Truffle Pappardelle', 'Wide ribbons, earthy mushrooms, cream, truffle warmth'],
       ['Sunday Gravy Short Rib Pappardelle', 'Braised short rib, rich red gravy, generous pasta texture'],
-      ["Mama-Son's Basil Fusion", 'Basil-garlic olive oil sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, prawn, ham, or no protein'],
+      ["Mama-Son's Basil Fusion", 'Basil garlic olive oil based, 4 cheese fusion sauce over angel hair or spaghetti pasta; with chicken, bacon, shrimp, prawn, ham, or no protein'],
       ['Chicken Parm alla Milanese', 'Crisp cutlet, melted mozzarella, bright pomodoro'],
     ],
   },

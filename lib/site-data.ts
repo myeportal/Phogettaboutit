@@ -32,8 +32,8 @@ export const featuredItems = [
     daypart: 'Lunch',
   },
   {
-    name: "Mama's Basil Tre Formaggi",
-    detail: 'A basil-green garlic olive oil sauce with cream cheese and Romano, Parmesan, and Parmigiano; available with chicken, bacon, shrimp, or no protein.',
+    name: "Mama-Son's Basil Fusion",
+    detail: 'A basil-green garlic olive oil sauce with cream cheese and Romano, Parmesan, and Parmigiano; available with chicken, bacon, shrimp, prawn, ham, or no protein.',
     daypart: 'Dinner',
   },
   {
@@ -70,7 +70,7 @@ export const menuSections = [
       ['Vodka Rigatoni Calabrese', 'Tomato-cream sauce, pancetta, parmesan, basil'],
       ['Wild Mushroom Truffle Pappardelle', 'Wide ribbons, earthy mushrooms, cream, truffle warmth'],
       ['Sunday Gravy Short Rib Pappardelle', 'Braised short rib, rich red gravy, generous pasta texture'],
-      ["Mama's Basil Tre Formaggi", 'Basil-garlic olive oil sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, or no protein'],
+      ["Mama-Son's Basil Fusion", 'Basil-garlic olive oil sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, prawn, ham, or no protein'],
       ['Chicken Parm alla Milanese', 'Crisp cutlet, melted mozzarella, bright pomodoro'],
     ],
   },

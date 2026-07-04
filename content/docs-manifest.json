@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "executive-summary",
+    "title": "Executive Summary",
+    "category": "Business",
+    "description": "High-level concept overview, positioning, and launch framing for the restaurant.",
+    "sourcePath": "Phogettaboutit_Master_Package/docs/01_Executive_Summary.md",
+    "file": "content/docs/executive-summary.md"
+  },
+  {
+    "slug": "brand-identity-guide",
+    "title": "PHOITALIA Brand Identity Guide",
+    "category": "Brand",
+    "description": "Brand system, voice, palette, and guest-facing identity guardrails.",
+    "sourcePath": "Phogettaboutit_Master_Package/PHOITALIA_BRAND_IDENTITY_GUIDE.md",
+    "file": "content/docs/brand-identity-guide.md"
+  },
+  {
+    "slug": "website-copy",
+    "title": "Website Copy Pack",
+    "category": "Marketing",
+    "description": "Homepage, menu, reservation, and conversion copy for the website experience.",
+    "sourcePath": "Phogettaboutit_Master_Package/17_Website_Copy.md",
+    "file": "content/docs/website-copy.md"
+  },
+  {
+    "slug": "naming-direction",
+    "title": "Naming Decision Memo",
+    "category": "Strategy",
+    "description": "Decision memo establishing PHOITALIA as the primary brand direction.",
+    "sourcePath": "Phogettaboutit_Master_Package/NAMING_DECISION_MEMO__PHOITALIA_PRIMARY_DIRECTION.md",
+    "file": "content/docs/naming-direction.md"
+  },
+  {
+    "slug": "secondary-brand-architecture",
+    "title": "Secondary-Use Brand Architecture",
+    "category": "IP",
+    "description": "How phogettaboutit.com and PHOGETTABOUTIT fit as supporting assets only.",
+    "sourcePath": "Phogettaboutit_IP_Master_Package/IP/09_Secondary_Use_Brand_Architecture.md",
+    "file": "content/docs/secondary-brand-architecture.md"
+  },
+  {
+    "slug": "brand-style-guide",
+    "title": "Brand Style Guide",
+    "category": "IP",
+    "description": "Supporting brand-style guidance from the IP package for rollout consistency.",
+    "sourcePath": "Phogettaboutit_IP_Master_Package/Brand_Assets/01_Brand_Style_Guide.md",
+    "file": "content/docs/brand-style-guide.md"
+  },
+  {
+    "slug": "site-architecture",
+    "title": "Site Architecture",
+    "category": "Project",
+    "description": "Repo structure, source mapping, deployment handoff, and docs-gating ideas for this build.",
+    "sourcePath": "phoitalia-site/ARCHITECTURE.md",
+    "file": "content/docs/site-architecture.md"
+  }
+]

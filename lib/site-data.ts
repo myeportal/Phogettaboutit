@@ -1,6 +1,6 @@
 export const brand = {
   name: 'PHOITALIA',
-  descriptor: 'Vietnamese Lunch • Italian Dinner',
+  descriptor: 'Vietnamese Lunch • Italia Dinner',
   tagline: 'Pho by Day. Pasta by Night.',
   supportingDomain: 'phogettaboutit.com',
   supportNote: 'PHOGETTABOUTIT remains a secondary campaign and marketing expression only.',
@@ -47,7 +47,7 @@ export const menuSections = [
   {
     title: 'PHOITALIA Lunch',
     subtitle: 'Fresh herbs, rich broth, satisfying bowls, and midday favorites worth repeating.',
-    note: 'New starters and shrimp specialties keep the lunch side bright, traditional, and easy to scan.',
+    note: 'Served daily from 10:30 AM to 2:30 PM. New starters and shrimp specialties keep the lunch side bright, traditional, and easy to scan.',
     items: [
       ['Saigon Fresh Rolls', 'Choice of shrimp & pork or chicken, herbs, vermicelli, peanut-hoisin dip'],
       ['Traditional Egg Rolls', 'Golden-fried Vietnamese rolls, lettuce, herbs, nuoc cham'],
@@ -60,9 +60,9 @@ export const menuSections = [
     ],
   },
   {
-    title: 'PHOITALIA After Dark',
-    subtitle: 'Pasta, comforting classics, cocktails, and a warmer room built for longer meals.',
-    note: 'Dinner includes complimentary Italian bread, cheese, and olive oil at one set per four guests.',
+    title: 'PHOITALIA Italia Dinner',
+    subtitle: 'Pasta, comforting classics, cocktails, and a warmer room built for longer meals from 4:30 PM to 9:30 PM.',
+    note: 'Served daily from 4:30 PM to 9:30 PM. Dinner includes complimentary Italian bread, cheese, and olive oil at one set per four guests.',
     items: [
       ['Whipped Ricotta Crostini', 'Hot honey, pistachio, charred grape relish, sea salt'],
       ['Fried Ravioli alla Vodka', 'Parmesan crust, basil, warm vodka sauce for dipping'],
@@ -80,7 +80,7 @@ export const brandPrinciples = [
   'PHOITALIA is the primary guest-facing hospitality brand.',
   'phogettaboutit.com is a supporting domain and traffic-capture asset.',
   'PHOGETTABOUTIT is secondary only: campaign, loyalty, merch, or content expression.',
-  'The concept is rhythm-based, not gimmick fusion: bright Vietnamese lunch and warm Italian dinner.',
+  'The concept is rhythm-based, not gimmick fusion: bright Vietnamese lunch and warm Italia dinner.',
   'Every guest-facing touchpoint should feel premium, warm, and operationally clear.',
 ];
 

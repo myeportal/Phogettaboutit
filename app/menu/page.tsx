@@ -7,7 +7,7 @@ export default function MenuPage() {
         <p className="kicker">Choose your mood</p>
         <h1>Lunch bright. Dinner warm.</h1>
         <p>
-          PHOITALIA uses one house identity with two dayparts: a scan-friendly Vietnamese lunch and a slower, warmer Italian dinner experience with polished hospitality built in.
+          PHOITALIA uses one house identity with two dayparts: a scan-friendly Vietnamese lunch and a slower, warmer Italia dinner experience with polished hospitality built in.
         </p>
       </section>
 

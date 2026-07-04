@@ -8,7 +8,7 @@ export default function BrandPage() {
         <p className="kicker">Brand system</p>
         <h1>{brand.name} leads. Everything else supports.</h1>
         <p>
-          The concept is framed as a premium hospitality identity: Vietnamese lunch energy, Italian dinner warmth, and clear hierarchy across web, signage, menus, and future rollout assets.
+          The concept is framed as a premium hospitality identity: Vietnamese lunch energy, Italia dinner warmth, and clear hierarchy across web, signage, menus, and future rollout assets.
         </p>
       </section>
 

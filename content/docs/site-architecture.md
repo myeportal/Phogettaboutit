@@ -5,7 +5,7 @@ This project is a Vercel-ready Next.js review build for the PHOITALIA restaurant
 
 ## Route map
 - `/` — premium homepage for the concept story and launch-ready review
-- `/menu` — Vietnamese lunch + Italian dinner menu framing
+- `/menu` — Vietnamese lunch + Italia dinner menu framing
 - `/brand` — brand hierarchy and usage guardrails
 - `/docs` — selected package docs index
 - `/docs/[slug]` — markdown detail view for copied docs

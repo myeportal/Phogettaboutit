@@ -9,7 +9,7 @@ export default function HomePage() {
           <p className="kicker">{brand.descriptor}</p>
           <h1>{brand.tagline}</h1>
           <p className="hero-copy">
-            PHOITALIA brings bright Vietnamese lunch energy and warm Italian dinner comfort together under one welcoming roof. Built as a premium neighborhood house, the concept is clear, polished, and ready for review.
+            PHOITALIA brings bright Vietnamese lunch energy and warm Italia dinner comfort together under one welcoming roof. Built as a premium neighborhood house, the concept is clear, polished, and ready for review.
           </p>
           <div className="button-row">
             <Link className="cta primary" href="/menu">View Menus</Link>
@@ -31,7 +31,7 @@ export default function HomePage() {
         <article className="panel">
           <h2>Not fusion. Just two great reasons to come back.</h2>
           <p>
-            Lunch is fresh, aromatic, and energizing when the middle of the day needs a reset. Dinner turns warmer, slower, and comfort-led with pasta, cocktails, conversation, and room to linger. Same house. Same hospitality. Two moods, one standard.
+            Lunch runs from 10:30 AM to 2:30 PM with fresh, aromatic energy when the middle of the day needs a reset. Italia dinner begins at 4:30 PM and runs to 9:30 PM with pasta, cocktails, conversation, and room to linger. Same house. Same hospitality. Two moods, one standard.
           </p>
         </article>
         <article className="panel">

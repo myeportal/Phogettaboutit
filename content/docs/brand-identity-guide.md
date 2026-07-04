@@ -6,7 +6,7 @@
 This guide translates the PHOITALIA naming direction into a client-ready identity system that can brief designers, sign fabricators, menu teams, web teams, packaging vendors, and hospitality operators.
 
 ## Brand Idea in One Line
-**Vietnamese lunch energy. Italian dinner warmth. One memorable house.**
+**Vietnamese lunch energy. Italia dinner warmth. One memorable house.**
 
 ## Creative Rationale
 PHOITALIA works when it is framed as a hospitality identity, not a novelty mashup. The coherence comes from rhythm, not forced fusion:
@@ -32,7 +32,7 @@ A custom wordmark with confident letter spacing, subtle European hospitality cha
 **Best use:** storefront, website masthead, menu cover, investor-facing brand presentations.
 
 ### Concept 2 — The Daypart Descriptor Lockup
-A clean wordmark paired with a permanent descriptor line: **Vietnamese Lunch • Italian Dinner**. This is the clearest operational logo direction for first-location launch and wayfinding clarity.
+A clean wordmark paired with a permanent descriptor line: **Vietnamese Lunch • Italia Dinner**. This is the clearest operational logo direction for first-location launch and wayfinding clarity.
 
 **Best use:** exterior signs, Google Business imagery, packaging, window vinyl, launch collateral.
 
@@ -54,7 +54,7 @@ A more editorial direction with slightly higher contrast letterforms and a polis
 ## Tagline Options by Tone
 
 ### Clear and operational
-- **Vietnamese Lunch • Italian Dinner**
+- **Vietnamese Lunch • Italia Dinner**
 - **Pho by Day. Pasta by Night.**
 - **Lunch Bright. Dinner Warm.**
 
@@ -160,7 +160,7 @@ Use noon-to-night transitions, broth steam, pasta texture, herb freshness, candl
 
 ### Storefront
 Primary sign: **PHOITALIA**  
-Secondary clarity line: **Vietnamese Lunch • Italian Dinner**  
+Secondary clarity line: **Vietnamese Lunch • Italia Dinner**  
 Optional supporting domain mention only where clearly subordinate: **phogettaboutit.com**.
 
 ## Voice and Tone Notes

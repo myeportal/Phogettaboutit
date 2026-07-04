@@ -13,10 +13,10 @@ Create a site that explains the concept in seconds, turns curiosity into action,
 **Pho by Day. Pasta by Night.**
 
 ### Secondary Headline Option
-**Vietnamese Lunch. Italian Dinner. One Memorable House.**
+**Vietnamese Lunch. Italia Dinner. One Memorable House.**
 
 ### Core Supporting Line
-A Wyoming restaurant serving bright Vietnamese lunches and cozy Italian dinners in a space built for regulars, road-trippers, date nights, and weeknight comfort.
+A Wyoming restaurant serving bright Vietnamese lunches and cozy Italia dinners in a space built for regulars, road-trippers, date nights, and weeknight comfort.
 
 ### Primary CTAs
 - View Lunch Menu
@@ -37,7 +37,7 @@ A Wyoming restaurant serving bright Vietnamese lunches and cozy Italian dinners 
 Pho by Day. Pasta by Night.
 
 **Subhead:**
-PHOITALIA brings together fresh Vietnamese lunch energy and warm Italian dinner comfort under one Wyoming roof.
+PHOITALIA brings together fresh Vietnamese lunch energy and warm Italia dinner comfort under one Wyoming roof.
 
 **CTA Set:**
 - View Menus
@@ -45,7 +45,11 @@ PHOITALIA brings together fresh Vietnamese lunch energy and warm Italian dinner 
 - Order Lunch
 
 **Optional Small Copy:**
-Vietnamese Lunch • Italian Dinner
+Vietnamese Lunch • Italia Dinner
+
+**Hours:**
+Pho Lunch: 10:30 AM–2:30 PM
+Italia Dinner: 4:30 PM–9:30 PM
 
 ### Section: What We Are
 **Headline:**
@@ -153,7 +157,7 @@ View Lunch Menu
 
 ### Dinner Card
 **Title:**
-Italian Dinner
+Italia Dinner
 
 **Copy:**
 Pasta, comforting classics, Italia-style appetizers, complimentary table bread service, wine, cocktails, and a warm room worth lingering in.
@@ -248,15 +252,15 @@ We aim to provide a comfortable guest experience for everyone, including accessi
 ## SEO Page Copy Snippets
 
 ### Meta Title Options
-- PHOITALIA | Vietnamese Lunch & Italian Dinner in Wyoming
+- PHOITALIA | Vietnamese Lunch & Italia Dinner in Wyoming
 - PHOITALIA Wyoming | Pho, Pasta, Cocktails & Dinner Reservations
 - PHOITALIA | Pho by Day, Pasta by Night
 
 ### Meta Description Option
-PHOITALIA is a Wyoming restaurant serving fresh Vietnamese lunches and cozy Italian dinners, with takeout, reservations, cocktails, and seasonal outdoor seating.
+PHOITALIA is a Wyoming restaurant serving fresh Vietnamese lunches and cozy Italia dinners, with takeout, reservations, cocktails, and seasonal outdoor seating.
 
 ### Search-Friendly Intro Paragraph
-Looking for pho, lunch bowls, pasta, dinner, cocktails, or a memorable restaurant in Wyoming? PHOITALIA serves Vietnamese lunch during the day and Italian dinner at night, with dine-in, takeout, and a warm guest experience built for both quick meals and longer evenings.
+Looking for pho, lunch bowls, pasta, dinner, cocktails, or a memorable restaurant in Wyoming? PHOITALIA serves Vietnamese lunch during the day and Italia dinner at night, with dine-in, takeout, and a warm guest experience built for both quick meals and longer evenings.
 
 ---
 
@@ -285,7 +289,7 @@ Join the PHOITALIA list for launch news, seasonal menu drops, patio announcement
 
 ## UX Notes for the Website Team
 - Keep daypart CTAs visible above the fold.
-- Always show the descriptor line “Vietnamese Lunch • Italian Dinner.”
+- Always show the descriptor line “Vietnamese Lunch • Italia Dinner.”
 - Use separate lunch and dinner photography rather than mixed collage clutter.
 - Keep mobile navigation action-driven: Menus, Order, Reserve, Visit.
 - Accessibility, hours, ordering, and reservation paths should be easy to find within one tap or click.

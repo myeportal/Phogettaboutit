@@ -30,7 +30,7 @@ Avoid slang-heavy copy, parody language, fake accents, and overworked pun-based 
 - prioritize signage readability and system consistency
 - use strong custom or semi-custom typography
 - keep `PHO` distinctive without turning the mark into a joke
-- maintain a clean version that works with the descriptor line **Vietnamese Lunch • Italian Dinner**
+- maintain a clean version that works with the descriptor line **Vietnamese Lunch • Italia Dinner**
 - create one reduced icon or monogram for small-format use
 
 ### Color starters

@@ -22,23 +22,23 @@ export const heroStats = [
 
 export const featuredItems = [
   {
-    name: 'House Signature Beef Pho',
-    detail: 'Long-simmered broth, brisket, rare sirloin, meatballs, herbs, and serious midday reset energy.',
+    name: 'Saigon Fresh Rolls',
+    detail: 'Choice of shrimp & pork or chicken with herbs, vermicelli, and peanut-hoisin dip.',
     daypart: 'Lunch',
   },
   {
-    name: 'Lemongrass Chicken Banh Mi',
-    detail: 'Crackly baguette, bright pickles, jalapeño, cucumber, and layered savory heat.',
+    name: 'Traditional Grilled Shrimp Vermicelli Bowl',
+    detail: 'Authentic Vietnamese grilled shrimp, fresh herbs, pickles, vermicelli, and nuoc cham.',
     daypart: 'Lunch',
   },
   {
-    name: 'Vodka Rigatoni Calabrese',
-    detail: 'Silky sauce, pancetta, parmesan, basil, and a controlled Calabrian chili glow.',
+    name: "Mama's Basil Tre Formaggi",
+    detail: 'A basil-green garlic cream sauce with cream cheese and Romano, Parmesan, and Parmigiano; available with chicken, bacon, shrimp, or no protein.',
     daypart: 'Dinner',
   },
   {
-    name: 'Sunday Gravy Short Rib Pappardelle',
-    detail: 'Braised short rib, rich red gravy, and occasion-worthy comfort.',
+    name: 'Fried Ravioli alla Vodka',
+    detail: 'Golden ravioli, basil, parmesan crust, and warm vodka sauce for dipping.',
     daypart: 'Dinner',
   },
 ];
@@ -47,25 +47,31 @@ export const menuSections = [
   {
     title: 'PHOITALIA Lunch',
     subtitle: 'Fresh herbs, rich broth, satisfying bowls, and midday favorites worth repeating.',
+    note: 'New starters and shrimp specialties keep the lunch side bright, traditional, and easy to scan.',
     items: [
+      ['Saigon Fresh Rolls', 'Choice of shrimp & pork or chicken, herbs, vermicelli, peanut-hoisin dip'],
+      ['Traditional Egg Rolls', 'Golden-fried Vietnamese rolls, lettuce, herbs, nuoc cham'],
       ['House Signature Beef Pho', 'Brisket, rare sirloin, meatballs, rice noodles, herbs'],
       ['House Pho Ga', 'Poached chicken, delicate broth, rice noodles, bright basil plate'],
+      ['Traditional Grilled Shrimp Vermicelli Bowl', 'Authentic Vietnamese grilled shrimp, herbs, pickles, vermicelli, nuoc cham'],
+      ['Crispy Fried Shrimp Rice Bowl', 'Authentic Vietnamese-style deep-fried shrimp, jasmine rice, herbs, pickles, chili-lime fish sauce'],
       ['Lemongrass Chicken Banh Mi', 'Savory lemongrass chicken, cucumber, pickles, jalapeño'],
       ['Shaking Beef Rice Bowl', 'Wok-seared sirloin, jasmine rice, crisp greens'],
-      ['Vietnamese Iced Coffee', 'Strong, sweet, chilled, and lunch-break ready'],
-      ['Thai Basil Limeade', 'Bright, herbal, and refreshing'],
     ],
   },
   {
     title: 'PHOITALIA After Dark',
     subtitle: 'Pasta, comforting classics, cocktails, and a warmer room built for longer meals.',
+    note: 'Dinner includes complimentary Italian bread, cheese, and olive oil at one set per four guests.',
     items: [
+      ['Whipped Ricotta Crostini', 'Hot honey, pistachio, charred grape relish, sea salt'],
+      ['Fried Ravioli alla Vodka', 'Parmesan crust, basil, warm vodka sauce for dipping'],
+      ['Stuffed Long Hots Italiano', 'Sweet sausage, fontina, roasted peppers, pomodoro gloss'],
       ['Vodka Rigatoni Calabrese', 'Tomato-cream sauce, pancetta, parmesan, basil'],
       ['Wild Mushroom Truffle Pappardelle', 'Wide ribbons, earthy mushrooms, cream, truffle warmth'],
       ['Sunday Gravy Short Rib Pappardelle', 'Braised short rib, rich red gravy, generous pasta texture'],
+      ["Mama's Basil Tre Formaggi", 'Basil-garlic olive oil cream sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, or no protein'],
       ['Chicken Parm alla Milanese', 'Crisp cutlet, melted mozzarella, bright pomodoro'],
-      ['Espresso Martini', 'A late-evening signal dinner is not over yet'],
-      ['Tiramisu Cannoli Trifle', 'Creamy, crisp, espresso-kissed finish'],
     ],
   },
 ];

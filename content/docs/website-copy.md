@@ -139,7 +139,7 @@ What matters here.
 Choose your mood.
 
 **Body Copy:**
-Lunch and dinner tell different stories here. Explore the menu that fits your moment.
+Lunch and dinner tell different stories here. Explore the menu that fits your moment, from fresh Vietnamese rolls and authentic shrimp dishes at midday to Italia-style antipasti, a basil-green signature pasta, and house hospitality at night.
 
 ### Lunch Card
 **Title:**
@@ -156,7 +156,7 @@ View Lunch Menu
 Italian Dinner
 
 **Copy:**
-Pasta, comforting classics, wine, cocktails, and a warm room worth lingering in.
+Pasta, comforting classics, Italia-style appetizers, complimentary table bread service, wine, cocktails, and a warm room worth lingering in.
 
 **CTA:**
 View Dinner Menu
@@ -196,6 +196,7 @@ Order lunch on the fly or bring dinner home. Our takeout program is built to tra
 - Family-friendly dinner carryout options
 - Clearly marked packaging
 - Easy online ordering
+- Distinct lunch and dinner signature items that travel with identity intact
 
 ### CTA
 Start Your Order

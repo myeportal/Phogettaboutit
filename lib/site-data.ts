@@ -33,7 +33,7 @@ export const featuredItems = [
   },
   {
     name: "Mama's Basil Tre Formaggi",
-    detail: 'A basil-green garlic cream sauce with cream cheese and Romano, Parmesan, and Parmigiano; available with chicken, bacon, shrimp, or no protein.',
+    detail: 'A basil-green garlic olive oil sauce with cream cheese and Romano, Parmesan, and Parmigiano; available with chicken, bacon, shrimp, or no protein.',
     daypart: 'Dinner',
   },
   {
@@ -70,7 +70,7 @@ export const menuSections = [
       ['Vodka Rigatoni Calabrese', 'Tomato-cream sauce, pancetta, parmesan, basil'],
       ['Wild Mushroom Truffle Pappardelle', 'Wide ribbons, earthy mushrooms, cream, truffle warmth'],
       ['Sunday Gravy Short Rib Pappardelle', 'Braised short rib, rich red gravy, generous pasta texture'],
-      ["Mama's Basil Tre Formaggi", 'Basil-garlic olive oil cream sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, or no protein'],
+      ["Mama's Basil Tre Formaggi", 'Basil-garlic olive oil sauce with cream cheese and a Romano, Parmesan, Parmigiano blend; with chicken, bacon, shrimp, or no protein'],
       ['Chicken Parm alla Milanese', 'Crisp cutlet, melted mozzarella, bright pomodoro'],
     ],
   },

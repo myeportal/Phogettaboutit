@@ -4,10 +4,10 @@ export default function MenuPage() {
   return (
     <>
       <section className="page-hero">
-        <p className="kicker">Choose your mood</p>
-        <h1>Lunch bright. Dinner warm.</h1>
+        <p className="kicker">Choose your route</p>
+        <h1>Vietnam for lunch. Italy for dinner.</h1>
         <p>
-          PHOITALIA uses one house identity with two dayparts: a scan-friendly Vietnamese lunch and a slower, warmer Italia dinner experience with polished hospitality built in.
+          PHOITALIA uses one house identity with two intentional stops on the map: a bright Vietnamese lunch from 10:30 AM to 2:30 PM, then a warmer Italia dinner from 4:30 PM to 9:30 PM.
         </p>
       </section>
 

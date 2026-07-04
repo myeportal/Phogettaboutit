@@ -3,9 +3,9 @@ import './globals.css';
 import { SiteShell } from '@/components/site-shell';
 
 export const metadata: Metadata = {
-  title: 'PHOITALIA | Pho by Day. Pasta by Night.',
+  title: 'PHOITALIA | Vietnam at Lunch. Italy at Dinner.',
   description:
-    'PHOITALIA is a premium restaurant concept pairing Vietnamese lunch energy with Italia dinner warmth under one welcoming brand.',
+    'PHOITALIA is a premium restaurant concept built around a route-from-Vietnam-to-Italy story: bright Vietnamese lunch energy by day and warm Italia dinner hospitality at night.',
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

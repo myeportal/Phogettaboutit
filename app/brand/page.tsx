@@ -6,9 +6,9 @@ export default function BrandPage() {
     <>
       <section className="page-hero">
         <p className="kicker">Brand system</p>
-        <h1>{brand.name} leads. Everything else supports.</h1>
+        <h1>{brand.name} leads. The route story supports.</h1>
         <p>
-          The concept is framed as a premium hospitality identity: Vietnamese lunch energy, Italia dinner warmth, and clear hierarchy across web, signage, menus, and future rollout assets.
+          The concept is framed as one premium hospitality identity with two geographic dayparts: Vietnam at lunch, Italy at dinner, and a map-like transition that clarifies the guest experience across web, signage, menus, and future rollout assets.
         </p>
       </section>
 
@@ -33,7 +33,7 @@ export default function BrandPage() {
       <section className="cta-band">
         <div>
           <h2 style={{ marginBottom: 8 }}>Package-backed brand decisions</h2>
-          <p>Review the copied source documents for naming, identity, and IP architecture before launch implementation.</p>
+          <p>Review the updated identity and copy docs for the Vietnam-to-Italy daypart story, brand hierarchy, and logo concept notes before launch implementation.</p>
         </div>
         <div className="button-row">
           <Link className="cta primary" href="/docs/brand-identity-guide">Brand identity doc</Link>

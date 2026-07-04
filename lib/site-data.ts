@@ -33,7 +33,7 @@ export const featuredItems = [
   },
   {
     name: "Mama-Son's Basil Fusion",
-    detail: 'The dinner signature lands in Italy with a basil garlic olive oil based, 4 cheese fusion sauce over angel hair or spaghetti pasta.',
+    detail: 'Angel hair or spaghetti in a basil garlic olive oil 4 cheese fusion sauce.',
     daypart: 'Italia Dinner',
   },
   {
@@ -64,13 +64,17 @@ export const menuSections = [
     subtitle: 'Pasta, comforting classics, cocktails, and a warmer room built for longer meals.',
     note: 'Served daily from 4:30 PM to 9:30 PM. By dinner, the route lands in Italy with bread service, richer pacing, and a warmer room.',
     items: [
+      ['Burrata Herb Garden', 'Burrata, tomatoes, basil, arugula, lemon olive oil'],
+      ['Phoitalia Caesar', 'Romaine, parmesan, toasted breadcrumbs, garlic dressing'],
       ['Whipped Ricotta Crostini', 'Hot honey, pistachio, charred grape relish, sea salt'],
       ['Fried Ravioli alla Vodka', 'Parmesan crust, basil, warm vodka sauce for dipping'],
       ['Stuffed Long Hots Italiano', 'Sweet sausage, fontina, roasted peppers, pomodoro gloss'],
+      ['Crispy Arancini al Pesto', 'Golden risotto bites, mozzarella, basil pesto'],
+      ['Caprese Stuffed Mushrooms', 'Roasted mushrooms with mozzarella, tomato, basil, balsamic glaze'],
       ['Vodka Rigatoni Calabrese', 'Tomato-cream sauce, pancetta, parmesan, basil'],
       ['Wild Mushroom Truffle Pappardelle', 'Wide ribbons, earthy mushrooms, cream, truffle warmth'],
       ['Sunday Gravy Short Rib Pappardelle', 'Braised short rib, rich red gravy, generous pasta texture'],
-      ["Mama-Son's Basil Fusion", 'Basil garlic olive oil based, 4 cheese fusion sauce over angel hair or spaghetti pasta; with chicken, bacon, shrimp, prawn, ham, or no protein'],
+      ["Mama-Son's Basil Fusion", 'Angel hair or spaghetti in a basil garlic olive oil 4 cheese fusion sauce.'],
       ['Chicken Parm alla Milanese', 'Crisp cutlet, melted mozzarella, bright pomodoro'],
     ],
   },

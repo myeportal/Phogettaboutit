@@ -9,7 +9,7 @@ export default function HomePage() {
           <p className="kicker">{brand.descriptor}</p>
           <h1>{brand.tagline}</h1>
           <p className="hero-copy">
-            PHOITALIA now tells a stronger geographic daypart story: lunch begins in Vietnam with bright herbs, broth, and speed, then dinner lands in Italy with pasta, cocktails, and a warmer room. Think of the brand like a route across the map, not a fusion mashup.
+            PHOITALIA is a warm, time-locked house: by day, lunch feels like Vietnam with fragrant broth, bright herbs, and an easy midday rhythm; by night, dinner settles into Italy with candlelit comfort, pasta, cocktails, and a slower exhale.
           </p>
           <div className="button-row">
             <Link className="cta primary" href="/menu">View Menus</Link>
@@ -29,15 +29,15 @@ export default function HomePage() {
 
       <section className="grid-2">
         <article className="panel">
-          <h2>Two dayparts. Two countries. One house.</h2>
+          <h2>Two dayparts. Two moods. One safe, cozy house.</h2>
           <p>
-            Pho Lunch runs from 10:30 AM to 2:30 PM and owns the Vietnam side of the story with fresh, aromatic midday energy. Italia Dinner begins at 4:30 PM and runs to 9:30 PM with pasta, cocktails, conversation, and comfort. Same hospitality standard, but the guest journey intentionally moves from Vietnam at noon to Italy at night.
+            Pho Lunch runs from 10:30 AM to 2:30 PM and turns the room toward Vietnam: herb-bright, comforting, and quietly energizing. Italia Dinner begins at 4:30 PM and runs to 9:30 PM, softening everything into Italy with richer plates, warmer lighting, and the kind of meal that invites you to stay a little longer.
           </p>
         </article>
         <article className="panel">
-          <h2>Global-map concept, clear hierarchy</h2>
+          <h2>An immersive shift you can feel</h2>
           <p>
-            The website and copy should feel like a route line stretching from Vietnam to Italy across the day. PHOITALIA remains the lead brand everywhere, {brand.supportingDomain} stays supporting only, and PHOGETTABOUTIT remains secondary for campaigns, merch, loyalty, or creative extensions.
+            The room does the storytelling gently: large screens carry rotating visual slides about every 30 seconds, smaller menu screens stay practical where they should, and low-volume music keeps the mood present without crowding the table. PHOITALIA remains the lead brand everywhere, while {brand.supportingDomain} stays in a supporting role, PHOGETTABOUTIT remains secondary only, and a future web3 checkout can support utility tokens the founder may deploy later around “PHO” and “ITALIA.”
           </p>
         </article>
       </section>
@@ -57,8 +57,8 @@ export default function HomePage() {
 
       <section className="cta-band">
         <div>
-          <h2 style={{ marginBottom: 8 }}>Deploy-ready review build</h2>
-          <p>This Next.js project now reflects the updated daypart story, route-from-Vietnam-to-Italy positioning, and current PHOITALIA brand guardrails.</p>
+          <h2 style={{ marginBottom: 8 }}>A house guests can step into</h2>
+          <p>The site now speaks in the same voice as the room itself: lunch in Vietnam, dinner in Italy, and PHOITALIA holding both with warmth, calm, and intention.</p>
         </div>
         <div className="button-row">
           <Link className="cta primary" href="/docs">Open docs library</Link>

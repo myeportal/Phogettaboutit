@@ -1,7 +1,7 @@
 export const brand = {
   name: 'PHOITALIA',
-  descriptor: 'Vietnamese Lunch • Italia Dinner',
-  tagline: 'From Vietnam at Lunch to Italy at Dinner.',
+  descriptor: 'Vietnam at Lunch • Italy at Dinner',
+  tagline: 'A warm two-nation house, timed to the day.',
   supportingDomain: 'phogettaboutit.com',
   supportNote: 'PHOGETTABOUTIT remains a secondary campaign and marketing expression only.',
   location: 'Wyoming concept restaurant',
@@ -15,30 +15,30 @@ export const nav = [
 ];
 
 export const heroStats = [
-  { label: 'Lunch route', value: 'Vietnam • 10:30–2:30' },
-  { label: 'Dinner route', value: 'Italy • 4:30–9:30' },
-  { label: 'Brand rule', value: 'PHOITALIA leads' },
+  { label: 'Lunch mood', value: 'Vietnam • 10:30–2:30' },
+  { label: 'Dinner mood', value: 'Italy • 4:30–9:30' },
+  { label: 'House rule', value: 'PHOITALIA leads' },
 ];
 
 export const featuredItems = [
   {
     name: 'Saigon Fresh Rolls',
-    detail: 'A clean-start lunch opener that cues the Vietnam side of the house with herbs, vermicelli, and peanut-hoisin dip.',
+    detail: 'A fresh, herb-forward opening that makes lunch feel unmistakably Vietnamese from the first plate.',
     daypart: 'Vietnam Lunch',
   },
   {
     name: 'Traditional Grilled Shrimp Vermicelli Bowl',
-    detail: 'Authentic grilled shrimp, fresh herbs, pickles, vermicelli, and nuoc cham for a bright midday reset.',
+    detail: 'Grilled shrimp, herbs, pickles, and nuoc cham for the bright, comforting midday rhythm the room is built around.',
     daypart: 'Vietnam Lunch',
   },
   {
     name: "Mama-Son's Basil Fusion",
-    detail: 'Angel hair or spaghetti in a basil garlic olive oil 4 cheese fusion sauce.',
+    detail: 'Angel hair or spaghetti in a basil-garlic olive oil four-cheese sauce that lands like pure dinner comfort.',
     daypart: 'Italia Dinner',
   },
   {
     name: 'Fried Ravioli alla Vodka',
-    detail: 'Golden ravioli, basil, parmesan crust, and warm vodka sauce for a playful first stop on the dinner side.',
+    detail: 'Golden ravioli, basil, parmesan crust, and warm vodka sauce to begin the Italy side with a little glow.',
     daypart: 'Italia Dinner',
   },
 ];
@@ -47,7 +47,7 @@ export const menuSections = [
   {
     title: 'Vietnam Lunch',
     subtitle: 'Fresh herbs, rich broth, satisfying bowls, and midday favorites worth repeating.',
-    note: 'Served daily from 10:30 AM to 2:30 PM. Lunch is the Vietnam chapter: bright, aromatic, traditional, and easy to scan for fast midday decisions.',
+    note: 'Served daily from 10:30 AM to 2:30 PM. Lunch should feel like Vietnam: bright, aromatic, comforting, and easy to navigate when the day is moving fast.',
     items: [
       ['Saigon Fresh Rolls', 'Choice of shrimp & pork or chicken, herbs, vermicelli, peanut-hoisin dip'],
       ['Traditional Egg Rolls', 'Golden-fried Vietnamese rolls, lettuce, herbs, nuoc cham'],
@@ -62,7 +62,7 @@ export const menuSections = [
   {
     title: 'Italia Dinner',
     subtitle: 'Pasta, comforting classics, cocktails, and a warmer room built for longer meals.',
-    note: 'Served daily from 4:30 PM to 9:30 PM. By dinner, the route lands in Italy with bread service, richer pacing, and a warmer room.',
+    note: 'Served daily from 4:30 PM to 9:30 PM. By dinner, the house settles into Italy with richer pacing, softer energy, and a warmer room built for lingering.',
     items: [
       ['Burrata Herb Garden', 'Burrata, tomatoes, basil, arugula, lemon olive oil'],
       ['Phoitalia Caesar', 'Romaine, parmesan, toasted breadcrumbs, garlic dressing'],
@@ -84,19 +84,23 @@ export const brandPrinciples = [
   'PHOITALIA is the primary guest-facing hospitality brand.',
   'phogettaboutit.com is a supporting domain and traffic-capture asset.',
   'PHOGETTABOUTIT is secondary only: campaign, loyalty, merch, or content expression.',
-  'The concept is rhythm-based, not gimmick fusion: Vietnam at lunch and Italy at dinner.',
-  'Every guest-facing touchpoint should feel premium, warm, and operationally clear.',
+  'The concept is experiential, not gimmick fusion: Vietnam at lunch and Italy at dinner.',
+  'Every guest-facing touchpoint should feel premium, warm, safe, and operationally clear.',
   'Any logo exploration should treat the “i side has 2 faces” note as a concept brief, not a reason to split the house into two brands.',
 ];
 
 export const brandSignals = [
   {
-    title: 'Geographic story arc',
-    copy: 'The UI should feel like a daypart route: lunch starts in Vietnam, dinner lands in Italy, and the transition ties the whole house together.',
+    title: 'Time-locked story arc',
+    copy: 'The UI should feel like a gentle daily transformation: lunch opens in Vietnam, dinner settles into Italy, and the transition ties the whole house together.',
   },
   {
     title: 'Identity direction',
-    copy: 'One well-run neighborhood house with two emotional tempos: brisk, herb-bright lunch energy and warmer, slower Italia dinner hospitality.',
+    copy: 'One well-run neighborhood house with two emotional tempos: brisk, herb-bright Vietnam lunch energy and warmer, slower Italia dinner hospitality.',
+  },
+  {
+    title: 'Immersive environment cues',
+    copy: 'Large screens can carry rotating visual slides roughly every 30 seconds, smaller menu screens should stay practical, and low-volume music should support the mood without ever overwhelming conversation.',
   },
   {
     title: 'Logo concept note',

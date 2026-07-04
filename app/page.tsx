@@ -37,7 +37,7 @@ export default function HomePage() {
         <article className="panel">
           <h2>Primary brand architecture</h2>
           <p>
-            PHOITALIA leads every guest-facing touchpoint. {brand.supportingDomain} remains a supporting traffic-capture domain, and PHOGETTABOUTIT stays secondary only for campaigns, merch, loyalty, or content themes.
+            PHOITALIA leads every guest-facing touchpoint. {brand.supportingDomain} remains a supporting traffic-capture domain, PHOGETTABOUTIT stays secondary only for campaigns, merch, loyalty, or content themes, and a future web3 checkout can support utility tokens the founder may deploy later around “PHO” and “ITALIA.”
           </p>
         </article>
       </section>

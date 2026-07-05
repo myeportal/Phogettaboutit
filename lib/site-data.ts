@@ -1,7 +1,7 @@
 export const brand = {
   name: 'PHOITALIA',
   descriptor: 'Vietnam at Lunch • Italy at Dinner',
-  tagline: 'A warm two-nation house, timed to the day.',
+  tagline: 'Warm two-nation house, timed creations, for lunch & dinner.',
   supportingDomain: 'phogettaboutit.com',
   supportNote: 'PHOGETTABOUTIT remains a secondary campaign and marketing expression only.',
   location: 'Wyoming concept restaurant',

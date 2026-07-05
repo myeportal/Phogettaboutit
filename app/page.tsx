@@ -9,7 +9,7 @@ export default function HomePage() {
           <p className="kicker">{brand.descriptor}</p>
           <h1>{brand.tagline}</h1>
           <p className="hero-copy">
-            PHOITALIA is a warm, time-locked house: by day, lunch feels like Vietnam with fragrant broth, bright herbs, and an easy midday rhythm; by night, dinner settles into Italy with candlelit comfort, pasta, cocktails, and a slower exhale.
+            PHOITALIA moves with the day: lunch opens into Vietnam with fragrant broth, bright herbs, and a calm midday rhythm, then dinner settles into Italy with warmer lighting, comforting pasta, cocktails, and a slower, more intimate pace.
           </p>
           <div className="button-row">
             <Link className="cta primary" href="/menu">View Menus</Link>

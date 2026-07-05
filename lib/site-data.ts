@@ -47,7 +47,7 @@ export const menuSections = [
   {
     title: 'Vietnam Lunch',
     subtitle: 'Fresh herbs, rich broth, satisfying bowls, and midday favorites worth repeating.',
-    note: 'Served daily from 10:30 AM to 2:30 PM. Lunch should feel like Vietnam: bright, aromatic, comforting, and easy to navigate when the day is moving fast.',
+    note: 'Served daily from 10:30 AM to 2:30 PM. Lunch in Vietnam feels like bright, aromatic, comforting food that is easy to navigate when the day is moving fast.',
     items: [
       ['Saigon Fresh Rolls', 'Choice of shrimp & pork or chicken, herbs, vermicelli, peanut-hoisin dip'],
       ['Traditional Egg Rolls', 'Golden-fried Vietnamese rolls, lettuce, herbs, nuoc cham'],

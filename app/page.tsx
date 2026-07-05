@@ -25,12 +25,11 @@ export default function HomePage() {
           <p className="kicker">{brand.descriptor}</p>
           <h1>From Saigon sunlight to Italian candlelight.</h1>
           <p className="hero-copy hero-copy-large">
-            A dramatic full-house welcome for PHOITALIA: Vietnam opens the day with bright broth, herbs, and calm lunch energy, then the room crosses into Italy for a warmer dinner service built for pasta, cocktails, and lingering tables.
+            Step into PHOITALIA for a rare kind of dining experience: vibrant Vietnamese favorites at lunch, then a warm Italian dinner atmosphere by night — all in one elegant house guests remember long after the meal ends.
           </p>
           <div className="button-row">
             <Link className="cta primary" href="/menu">View Menus</Link>
-            <Link className="cta" href="/brand">Explore Brand</Link>
-            <Link className="cta" href="/docs">Review Docs</Link>
+            <Link className="cta" href="/brand">Our Story</Link>
           </div>
         </div>
 
@@ -39,7 +38,7 @@ export default function HomePage() {
             <span className="pill">The house journey</span>
             <h2>Vietnam at lunch. Italy at dinner. One warm address holding both.</h2>
             <p>
-              The homepage now opens like a premium arrival: two atmospheres, one route, and a clear emotional handoff from midday freshness to evening comfort.
+              Visit once for a bright, herb-filled lunch or settle in after sunset for candlelit Italian comfort — either way, PHOITALIA gives every guest something distinctive to return for.
             </p>
           </div>
 
@@ -102,7 +101,7 @@ export default function HomePage() {
           <p className="kicker">Inside the house</p>
           <h2>Lunch rises in Vietnam. Dinner glows in Italy.</h2>
           <p>
-            Guests should understand the shift before they ever walk in: brighter, herb-fresh energy at midday upstairs in the story, then a warmer Italian dinner atmosphere as the night settles in.
+            From the first glance, guests should feel what makes PHOITALIA special: a midday experience lifted by Vietnamese freshness, then an evening shaped by the warmth and romance of Italy.
           </p>
         </div>
 
@@ -118,7 +117,7 @@ export default function HomePage() {
             <span className="pill">Vietnam Lunch • 10:30 AM–2:30 PM</span>
             <h3>Bright, fresh, and quietly alive.</h3>
             <p>
-              Sunlit tables, clean lines, green notes, and an easy midday rhythm that makes pho, herbs, vermicelli bowls, and banh mi feel immediate and restorative.
+              Sunlit tables, lively herbs, and an easy midday rhythm make every bowl of pho, banh mi, and vermicelli feel fresh, comforting, and worth stepping out for.
             </p>
           </div>
         </article>
@@ -135,7 +134,7 @@ export default function HomePage() {
             <span className="pill">Italia Dinner • 4:30 PM–9:30 PM</span>
             <h3>Warmer light, slower pacing, longer tables.</h3>
             <p>
-              By evening the room softens into amber light, richer textures, and a more intimate dinner cadence built for pasta, cocktails, and a table worth lingering over.
+              By evening the room softens into amber light, richer textures, and a more intimate cadence made for pasta, cocktails, conversation, and a table worth lingering over.
             </p>
           </div>
         </article>
@@ -145,13 +144,13 @@ export default function HomePage() {
         <article className="panel">
           <h2>Two dayparts. One polished guest experience.</h2>
           <p>
-            PHOITALIA keeps the house unmistakably unified while letting each service express its own emotional temperature: Vietnam first for lunch, then Italy for dinner, each with clear hours and a distinct sense of place.
+            PHOITALIA brings together two cravings guests rarely find under one roof: a bright Vietnamese lunch that feels energizing and a relaxed Italian dinner that turns the night into an occasion.
           </p>
         </article>
         <article className="panel">
-          <h2>The shift should feel visual, not theatrical.</h2>
+          <h2>One address, two moods, no compromise.</h2>
           <p>
-            Thoughtful imagery, practical screens, and low-volume music can support the transition without distracting from the meal. PHOITALIA remains the lead brand everywhere, while {brand.supportingDomain} stays in a supporting role and PHOGETTABOUTIT remains secondary only.
+            What makes the experience memorable is how naturally the house moves from daytime freshness to evening warmth, giving guests a reason to visit for lunch, return for dinner, and talk about both.
           </p>
         </article>
       </section>
@@ -161,7 +160,7 @@ export default function HomePage() {
           <p className="kicker">Route highlights</p>
           <h2>Signature moments along the Vietnam-to-Italy arc.</h2>
           <p>
-            Start crisp and herb-bright at lunch, then close with richer Italian comfort once the room turns warm.
+            Start with herb-bright Vietnamese flavor at lunch, then come back for the richer comfort and slower pleasures of an Italian evening.
           </p>
         </div>
         <div className="grid-2">
@@ -177,12 +176,12 @@ export default function HomePage() {
 
       <section className="cta-band">
         <div>
-          <h2 style={{ marginBottom: 8 }}>A house guests can step into</h2>
-          <p>The site now speaks in the same voice as the room itself: lunch in Vietnam, dinner in Italy, and PHOITALIA holding both with warmth, calm, and intention.</p>
+          <h2 style={{ marginBottom: 8 }}>Come experience PHOITALIA for yourself</h2>
+          <p>Join us for a brighter Vietnamese lunch, return for a warmer Italian dinner, and discover why one elegant house gives guests two beautiful reasons to come back.</p>
         </div>
         <div className="button-row">
-          <Link className="cta primary" href="/docs">Open docs library</Link>
-          <Link className="cta" href="/docs/site-architecture">Architecture notes</Link>
+          <Link className="cta primary" href="/menu">View Menus</Link>
+          <Link className="cta" href="/brand">Discover the Story</Link>
         </div>
       </section>
     </>

@@ -27,17 +27,61 @@ export default function HomePage() {
         </div>
       </section>
 
+      <section className="ambience-split panel">
+        <div className="section-intro">
+          <p className="kicker">Inside the house</p>
+          <h2>Lunch rises in Vietnam. Dinner glows in Italy.</h2>
+          <p>
+            Guests should understand the shift before they ever walk in: brighter, herb-fresh energy at midday upstairs in the story, then a warmer Italian dinner atmosphere as the night settles in.
+          </p>
+        </div>
+
+        <article className="ambience-card vietnam-lunch">
+          <div className="ambience-image-wrap">
+            <img
+              className="ambience-image"
+              src="https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1400&q=80"
+              alt="A bright restaurant dining room with natural light, greenery, and calm midday energy for the Vietnam lunch mood"
+            />
+          </div>
+          <div className="ambience-copy">
+            <span className="pill">Vietnam Lunch • 10:30 AM–2:30 PM</span>
+            <h3>Bright, fresh, and quietly alive.</h3>
+            <p>
+              Sunlit tables, clean lines, green notes, and an easy midday rhythm that makes pho, herbs, vermicelli bowls, and banh mi feel immediate and restorative.
+            </p>
+          </div>
+        </article>
+
+        <article className="ambience-card italia-dinner">
+          <div className="ambience-image-wrap">
+            <img
+              className="ambience-image"
+              src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1400&q=80"
+              alt="A warm restaurant interior with moody lighting and intimate tables for the Italy dinner atmosphere"
+            />
+          </div>
+          <div className="ambience-copy">
+            <span className="pill">Italia Dinner • 4:30 PM–9:30 PM</span>
+            <h3>Warmer light, slower pacing, longer tables.</h3>
+            <p>
+              By evening the room softens into amber light, richer textures, and a more intimate dinner cadence built for pasta, cocktails, and a table worth lingering over.
+            </p>
+          </div>
+        </article>
+      </section>
+
       <section className="grid-2">
         <article className="panel">
-          <h2>Two dayparts. Two moods. One safe, cozy house.</h2>
+          <h2>Two dayparts. One polished guest experience.</h2>
           <p>
-            Pho Lunch runs from 10:30 AM to 2:30 PM and turns the room toward Vietnam: herb-bright, comforting, and quietly energizing. Italia Dinner begins at 4:30 PM and runs to 9:30 PM, softening everything into Italy with richer plates, warmer lighting, and the kind of meal that invites you to stay a little longer.
+            PHOITALIA keeps the house unmistakably unified while letting each service express its own emotional temperature: Vietnam first for lunch, then Italy for dinner, each with clear hours and a distinct sense of place.
           </p>
         </article>
         <article className="panel">
-          <h2>An immersive shift you can feel</h2>
+          <h2>The shift should feel visual, not theatrical.</h2>
           <p>
-            The room does the storytelling gently: large screens carry rotating visual slides about every 30 seconds, smaller menu screens stay practical where they should, and low-volume music keeps the mood present without crowding the table. PHOITALIA remains the lead brand everywhere, while {brand.supportingDomain} stays in a supporting role, PHOGETTABOUTIT remains secondary only, and a future web3 checkout can support utility tokens the founder may deploy later around “PHO” and “ITALIA.”
+            Thoughtful imagery, practical screens, and low-volume music can support the transition without distracting from the meal. PHOITALIA remains the lead brand everywhere, while {brand.supportingDomain} stays in a supporting role and PHOGETTABOUTIT remains secondary only.
           </p>
         </article>
       </section>

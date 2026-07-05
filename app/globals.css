@@ -64,6 +64,64 @@ section { margin-bottom: 28px; }
 .grid-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .panel { padding: 32px; }
 .panel h2, .page-hero h2 { margin-top: 0; font-size: 2rem; }
+.section-intro { max-width: 62ch; margin-bottom: 22px; }
+.ambience-split {
+  padding: 36px;
+  background:
+    linear-gradient(180deg, rgba(95, 138, 104, 0.08) 0%, rgba(197, 101, 68, 0.08) 100%),
+    rgba(255, 248, 241, 0.05);
+}
+.ambience-card {
+  position: relative;
+  overflow: hidden;
+  min-height: 420px;
+  display: grid;
+  align-items: end;
+  border-radius: 28px;
+  border: 1px solid var(--border);
+  background: #120f0d;
+  box-shadow: var(--shadow);
+}
+.ambience-card + .ambience-card { margin-top: 20px; }
+.ambience-image-wrap {
+  position: absolute;
+  inset: 0;
+}
+.ambience-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  filter: saturate(1.02);
+}
+.ambience-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(10, 8, 7, 0.14) 0%, rgba(10, 8, 7, 0.82) 78%);
+}
+.ambience-copy {
+  position: relative;
+  z-index: 1;
+  padding: 28px;
+  max-width: 560px;
+}
+.ambience-copy h3 {
+  margin: 14px 0 10px;
+  font-size: clamp(1.8rem, 3vw, 3rem);
+}
+.vietnam-lunch {
+  background: linear-gradient(135deg, rgba(80, 119, 88, 0.42), rgba(14, 12, 10, 0.55));
+}
+.vietnam-lunch::after {
+  background: linear-gradient(180deg, rgba(20, 31, 22, 0.08) 0%, rgba(12, 18, 14, 0.72) 72%, rgba(10, 8, 7, 0.9) 100%);
+}
+.italia-dinner {
+  background: linear-gradient(135deg, rgba(98, 46, 29, 0.38), rgba(14, 12, 10, 0.65));
+}
+.italia-dinner::after {
+  background: linear-gradient(180deg, rgba(33, 18, 12, 0.1) 0%, rgba(29, 16, 11, 0.76) 70%, rgba(10, 8, 7, 0.92) 100%);
+}
 .list { display: grid; gap: 14px; padding: 0; margin: 0; list-style: none; }
 .list li { padding: 18px 0; border-top: 1px solid var(--border); }
 .list li:first-child { border-top: 0; padding-top: 0; }
@@ -84,6 +142,7 @@ section { margin-bottom: 28px; }
 .route-list { margin: 0; padding-left: 18px; color: var(--muted); }
 @media (max-width: 900px) {
   .hero, .grid-2, .grid-3, .cta-band, .topbar, .footer { grid-template-columns: 1fr; display: grid; }
-  .hero { padding: 32px; }
+  .hero, .ambience-split { padding: 32px; }
+  .ambience-card { min-height: 360px; }
   .topbar, .footer { align-items: start; }
 }

@@ -33,6 +33,7 @@ Uses markdown snapshots copied into `content/docs/` from:
 - `Phogettaboutit_Master_Package/PHOITALIA_BRAND_IDENTITY_GUIDE.md`
 - `Phogettaboutit_Master_Package/17_Website_Copy.md`
 - `Phogettaboutit_Master_Package/NAMING_DECISION_MEMO__PHOITALIA_PRIMARY_DIRECTION.md`
+- `Phogettaboutit_Master_Package/docs/33_PhoItalia_whitepaper.md`
 - `Phogettaboutit_IP_Master_Package/IP/09_Secondary_Use_Brand_Architecture.md`
 - `Phogettaboutit_IP_Master_Package/Brand_Assets/01_Brand_Style_Guide.md`
 

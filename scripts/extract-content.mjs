@@ -48,6 +48,20 @@ const docs = [
     category: 'IP',
     source: path.join(root, 'Phogettaboutit_IP_Master_Package', 'Brand_Assets', '01_Brand_Style_Guide.md'),
     description: 'Supporting brand-style guidance from the IP package for rollout consistency.'
+  },
+  {
+    slug: 'phoitalia-whitepaper',
+    title: 'PhoItalia whitepaper',
+    category: 'Strategy',
+    source: path.join(root, 'Phogettaboutit_Master_Package', 'docs', '33_PhoItalia_whitepaper.md'),
+    description: 'High-level concept, brand, operating model, and investor framing for PHOITALIA.'
+  },
+  {
+    slug: 'site-architecture',
+    title: 'Site Architecture',
+    category: 'Project',
+    source: path.join(project, 'ARCHITECTURE.md'),
+    description: 'Repo structure, source mapping, deployment handoff, and docs-gating ideas for this build.'
   }
 ];
 

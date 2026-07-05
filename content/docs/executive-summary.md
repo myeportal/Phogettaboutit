@@ -4,7 +4,7 @@
 
 ## Company Overview
 
-**PHOITALIA** is the recommended primary restaurant brand for this dual-daypart hospitality platform, combining the everyday craveability of Vietnamese lunch with the warmth and occasion value of Italia dinner. The concept is designed around a clear thesis: people return to restaurants that feel comforting, distinctive, easy to understand, and reliable across dine-in and takeout.
+**PHOITALIA** is the recommended primary restaurant brand for this dual-daypart hospitality platform, combining the everyday craveability of Vietnamese lunch with the warmth and occasion value of Italian dinner. The concept is designed around a clear thesis: people return to restaurants that feel comforting, distinctive, easy to understand, and reliable across dine-in and takeout.
 
 `Phogettaboutit LLC` can remain the project entity and **phogettaboutit.com** can remain a useful traffic-capture and campaign asset, but `PHOGETTABOUTIT` is no longer the recommended lead hospitality mark.
 
@@ -30,10 +30,10 @@ Brand positioning: **A restaurant with two moods and one standard.**
 
 Menu architecture:
 - Vietnamese core: pho, vermicelli bowls, rice plates, banh mi, fresh rolls
-- Italia dinner energy: pasta, meatballs, cutlets, house sauces, garlic breads, and desserts
+- Italian dinner energy: pasta, meatballs, cutlets, house sauces, garlic breads, and desserts
 - Cross-cultural specials: limited items that create personality without turning the concept into forced fusion
 
-This is not a novelty mash-up. It is a disciplined operating concept with a Vietnamese lunch backbone, Italia dinner warmth, and a menu designed around overlapping prep, broth utilization, sauce systems, high-margin add-ons, and repeatable execution.
+This is not a novelty mash-up. It is a disciplined operating concept with a Vietnamese lunch backbone, Italian dinner warmth, and a menu designed around overlapping prep, broth utilization, sauce systems, high-margin add-ons, and repeatable execution.
 
 ## Unit Economics Snapshot
 

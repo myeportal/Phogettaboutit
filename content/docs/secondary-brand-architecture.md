@@ -88,7 +88,7 @@ If the founder adopts **PHOITALIA** as the primary house mark, avoid immediately
 
 ### Model A — Conservative
 **House mark:** PHOITALIA  
-**Descriptor:** Vietnamese Lunch • Italia Dinner  
+**Descriptor:** Vietnamese Lunch • Italian Dinner  
 **Secondary expression:** Phogettaboutit Broth Series
 
 ### Model B — Balanced

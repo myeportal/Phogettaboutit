@@ -48,6 +48,14 @@
     "file": "content/docs/brand-style-guide.md"
   },
   {
+    "slug": "phoitalia-whitepaper",
+    "title": "PhoItalia whitepaper",
+    "category": "Strategy",
+    "description": "High-level concept, brand, operating model, and investor framing for PHOITALIA.",
+    "sourcePath": "Phogettaboutit_Master_Package/docs/33_PhoItalia_whitepaper.md",
+    "file": "content/docs/phoitalia-whitepaper.md"
+  },
+  {
     "slug": "site-architecture",
     "title": "Site Architecture",
     "category": "Project",

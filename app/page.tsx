@@ -4,12 +4,28 @@ import { brand, featuredItems, heroStats } from '@/lib/site-data';
 export default function HomePage() {
   return (
     <>
-      <section className="hero">
-        <div>
+      <section className="hero hero-splash">
+        <div className="hero-media-stack" aria-hidden="true">
+          <div className="hero-image-panel hero-image-vietnam">
+            <img
+              src="https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1600&q=80"
+              alt=""
+            />
+          </div>
+          <div className="hero-image-panel hero-image-italy">
+            <img
+              src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=1600&q=80"
+              alt=""
+            />
+          </div>
+          <div className="hero-route-glow" />
+        </div>
+
+        <div className="hero-copy-column">
           <p className="kicker">{brand.descriptor}</p>
-          <h1>{brand.tagline}</h1>
-          <p className="hero-copy">
-            PHOITALIA moves with the day: lunch opens into Vietnam with fragrant broth, bright herbs, and a calm midday rhythm, then dinner settles into Italy with warmer lighting, comforting pasta, cocktails, and a slower, more intimate pace.
+          <h1>From Saigon sunlight to Italian candlelight.</h1>
+          <p className="hero-copy hero-copy-large">
+            A dramatic full-house welcome for PHOITALIA: Vietnam opens the day with bright broth, herbs, and calm lunch energy, then the room crosses into Italy for a warmer dinner service built for pasta, cocktails, and lingering tables.
           </p>
           <div className="button-row">
             <Link className="cta primary" href="/menu">View Menus</Link>
@@ -17,13 +33,67 @@ export default function HomePage() {
             <Link className="cta" href="/docs">Review Docs</Link>
           </div>
         </div>
-        <div className="stats">
-          {heroStats.map((stat) => (
-            <div key={stat.label} className="stat-box">
-              <span className="muted">{stat.label}</span>
-              <strong>{stat.value}</strong>
+
+        <div className="hero-route-card">
+          <div className="route-copy">
+            <span className="pill">The house journey</span>
+            <h2>Vietnam at lunch. Italy at dinner. One warm address holding both.</h2>
+            <p>
+              The homepage now opens like a premium arrival: two atmospheres, one route, and a clear emotional handoff from midday freshness to evening comfort.
+            </p>
+          </div>
+
+          <div className="route-map" aria-label="Stylized route from Vietnam to Italy">
+            <div className="route-label route-label-vietnam">
+              <strong>Vietnam</strong>
+              <span>Lunch • bright • herb-fresh</span>
             </div>
-          ))}
+            <svg viewBox="0 0 640 320" role="img" aria-hidden="true">
+              <defs>
+                <linearGradient id="routeStroke" x1="0%" y1="0%" x2="100%" y2="0%">
+                  <stop offset="0%" stopColor="rgba(120,178,131,0.95)" />
+                  <stop offset="52%" stopColor="rgba(244,220,177,0.9)" />
+                  <stop offset="100%" stopColor="rgba(197,101,68,0.95)" />
+                </linearGradient>
+                <filter id="routeBlur">
+                  <feGaussianBlur stdDeviation="6" />
+                </filter>
+              </defs>
+              <path
+                d="M108 208C166 165 211 128 264 122C319 116 350 151 396 157C450 165 502 135 550 98"
+                stroke="rgba(245, 232, 216, 0.18)"
+                strokeWidth="20"
+                fill="none"
+                strokeLinecap="round"
+                filter="url(#routeBlur)"
+              />
+              <path
+                d="M108 208C166 165 211 128 264 122C319 116 350 151 396 157C450 165 502 135 550 98"
+                stroke="url(#routeStroke)"
+                strokeWidth="5"
+                fill="none"
+                strokeLinecap="round"
+                strokeDasharray="2 12"
+              />
+              <circle cx="108" cy="208" r="14" fill="rgba(95, 138, 104, 0.95)" />
+              <circle cx="550" cy="98" r="14" fill="rgba(197, 101, 68, 0.95)" />
+              <circle cx="108" cy="208" r="28" fill="rgba(95, 138, 104, 0.18)" />
+              <circle cx="550" cy="98" r="28" fill="rgba(197, 101, 68, 0.18)" />
+            </svg>
+            <div className="route-label route-label-italy">
+              <strong>Italy</strong>
+              <span>Dinner • amber • lingering</span>
+            </div>
+          </div>
+
+          <div className="stats hero-stats-grid">
+            {heroStats.map((stat) => (
+              <div key={stat.label} className="stat-box">
+                <span className="muted">{stat.label}</span>
+                <strong>{stat.value}</strong>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
@@ -86,8 +156,14 @@ export default function HomePage() {
         </article>
       </section>
 
-      <section className="panel">
-        <h2>Start with the route highlights.</h2>
+      <section className="panel route-highlights-panel">
+        <div className="section-intro">
+          <p className="kicker">Route highlights</p>
+          <h2>Signature moments along the Vietnam-to-Italy arc.</h2>
+          <p>
+            Start crisp and herb-bright at lunch, then close with richer Italian comfort once the room turns warm.
+          </p>
+        </div>
         <div className="grid-2">
           {featuredItems.map((item) => (
             <div key={item.name} className="signal-card">
